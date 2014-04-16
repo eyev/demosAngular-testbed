@@ -1,0 +1,23 @@
+﻿.panel-close {
+    content: url(../img/close24x24.gif);
+    margin: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.searchBox { 
+float: right;
+margin: 10px 0;
+
+}
+.searchBox label {
+width: 25px;
+height: 24px;
+content: url(../img/searchIcon24x24.png) no-repeat;
+right: 17px;
+position: absolute;
+top: 1px;
+}
+.searchBox input {
+width: 100%;
+}
